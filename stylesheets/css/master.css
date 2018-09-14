@@ -176,3 +176,30 @@ body{
   font-weight: 500;
   padding: 18px 0px 0px 0px;
 }
+
+#footerBar{
+  height: 500px;
+  width: 100vw;
+  background-color: #222222;
+}
+
+#footerInfo{
+  margin: 10px 220px;
+}
+
+#hr1{
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #444444;
+  margin: 10px 0;
+  padding: 0;
+}
+
+#disclaimer{
+  color: #5A5A5A;
+  font-family: helvetica;
+  font-size: 12px;
+  padding: 20px 0px;
+  line-height: 1.2
+}
