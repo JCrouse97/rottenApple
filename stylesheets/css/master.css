@@ -59,3 +59,21 @@ body{
   margin: 5vw 20vw;
 
 }
+
+#wtk{
+  color: white;
+  list-style-type: none;
+  text-align: center;
+}
+
+.wtk-li{
+  display: inline;
+  font-size: 1.5em;
+  font-family: helvetica;
+  margin: 0px 0.2vw;
+
+}
+
+#playIcon1{
+  margin: 0px 0px 10px 0px;
+}
