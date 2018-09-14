@@ -3,20 +3,22 @@ body{
   background-color: #000000;
 }
 
-ul{
+
+#h-ul{
   white-space:nowrap;
   color: white;
   list-style-type: none;
   text-align: center;
 }
 
-li{
+.h-li{
 
   display: inline;
   font-family: helvetica;
-  padding: 0px 33px;
+  padding: 0px 3vw;
   font-size: 0.9em;
   box-sizing: border-box;
+  font-weight: 100;
 }
 
 #menuBar{
@@ -30,12 +32,30 @@ li{
 }
 
 #bigNews{
-  font-size: 5em;
+  margin-top: 8vw;
+
+  font-size: 7vw;
+
   background: -webkit-linear-gradient(left, #F8D3BF, #C79A7C);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 
+  padding: 10px 10px;
+
   font-family: helvetica;
   text-align: center;
   font-weight: 600;
+}
+
+#bigNewsPara{
+  font-family: helvetica;
+  font-size: 1.5em;
+  font-weight: 600;
+  color: #D9B69E;
+  text-align: center;
+  line-height: 1.2;
+
+
+  margin: 5vw 20vw;
+
 }
