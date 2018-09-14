@@ -34,7 +34,7 @@ body{
 #bigNews{
   margin-top: 8vw;
 
-  font-size: 7vw;
+  font-size: 6.5vw;
 
   background: -webkit-linear-gradient(left, #F8D3BF, #C79A7C);
   -webkit-background-clip: text;
@@ -60,6 +60,10 @@ body{
 
 }
 
+#smR{
+  font-size: 0.8em;
+}
+
 #wtk{
   color: white;
   list-style-type: none;
@@ -70,7 +74,7 @@ body{
 .wtk-li{
   vertical-align: middle;
   display: inline;
-  font-size: 1.2em;
+  font-size: 1.3em;
   font-family: helvetica;
   font-weight: 600;
   margin: 0px 0.2vw;
@@ -81,4 +85,73 @@ body{
 #playIcon1{
   display: inline-block;
   margin: 5px 0px 0px 0px;
+}
+
+#iphoneXs{
+  margin: 12vw auto 0px auto;
+  display: block;
+  width: 70vw;
+}
+
+#iphoneXsLogo{
+  margin: 5vw auto;
+  display: block;
+  width: 16vw;
+}
+
+#XSText{
+  font-family: helvetica;
+  color: white;
+  text-align: center;
+  font-size: 5vw;
+  font-weight: 550;
+}
+
+.lmpo{
+  color: #66BBFF;
+  list-style-type: none;
+  text-align: center;
+  margin: 25px;
+}
+
+.lmpo-li{
+  display: inline;
+  margin: 10px 10px;
+  font-family: helvetica;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+#iphoneXr{
+  margin: 15vw 25vw 0px auto;
+  display: block;
+  width: 70vw;
+}
+
+#iphoneXrLogo{
+  margin: 0px auto;
+  display: block;
+  width: 16vw;
+}
+
+#XRText{
+  font-family: helvetica;
+  color: white;
+  text-align: center;
+  font-size: 5vw;
+  font-weight: 550;
+  padding: 30px 0px 0px 0px;
+}
+
+#preorder1{
+  color: white;
+  font-family: helvetica;
+  text-align: center;
+  font-size: 1.5vw;
+  font-weight: 100;
+  padding-top: 30px;
+}
+
+#xrlm{
+  padding-left: 15px;
 }
