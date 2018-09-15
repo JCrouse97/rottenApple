@@ -231,3 +231,27 @@ body{
   list-style-type: none;
   margin: -320px 0px 0px 200px;
 }
+
+.h-li:hover{
+  color: #A7A7A7;
+  cursor: pointer;
+}
+
+.wtk-li:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.lmpo-li:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.S-L-li:hover{
+  color: #A7A7A7;
+  cursor: pointer;
+}
+
+.slliH{
+  color: #CBCBCB;
+}
