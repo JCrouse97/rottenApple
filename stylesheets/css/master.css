@@ -10,11 +10,11 @@ body{
   list-style-type: none;
   text-align: center;
   position: fixed;
-  margin-left: 10px;
+  margin-left: 5px;
   background-color: #000D;
   height: 50px;
   width: 100vw;
-  padding-top: 4px;
+  padding-top: 5px;
 }
 
 .h-li{
@@ -41,15 +41,16 @@ body{
 #bigNews{
   margin-top: 10vw;
 
-  font-size: 6.5vw;
+  font-size: 6.1vw;
 
-  background: -webkit-linear-gradient(left, #F8D3BF, #C79A7C);
+  background: -webkit-linear-gradient(left, #F6D3BF, #C89D7F);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 
   padding: 10px 10px 7px 10px;
 
   font-family: helvetica;
+  letter-spacing: 0.01px;
   text-align: center;
   font-weight: 600;
 }
@@ -95,7 +96,7 @@ body{
 }
 
 #iphoneXs{
-  margin: 12vw auto 0px auto;
+  margin: 15vw auto 0px auto;
   display: block;
   width: 70vw;
 }
