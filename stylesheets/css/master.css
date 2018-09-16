@@ -10,7 +10,7 @@ body{
   list-style-type: none;
   text-align: center;
   position: fixed;
-  margin-left: 5px;
+  margin-left: -5px;
   background-color: #000D;
   height: 50px;
   width: 100vw;
@@ -23,7 +23,7 @@ body{
   display: inline;
   font-family: helvetica;
   padding: 0px 2.5vw;
-  font-size: 0.9em;
+  font-size: 0.89em;
   box-sizing: border-box;
   font-weight: 100;
 }
@@ -188,7 +188,7 @@ body{
 
 #footerBar{
   height: 500px;
-  width: 100vw;
+  width: 1425px;
   background-color: #222222;
 }
 
