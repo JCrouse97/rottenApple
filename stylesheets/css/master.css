@@ -109,7 +109,7 @@ body{
 }
 
 #iphoneXsLogo{
-  margin: 5vw auto;
+  margin: 5vw auto 2vw auto;
   display: block;
   width: 16vw;
 }
@@ -120,6 +120,7 @@ body{
   text-align: center;
   font-size: 5vw;
   font-weight: 550;
+  line-height: 1.15;
 }
 
 .lmpo{
@@ -178,7 +179,7 @@ body{
 }
 
 #AWatchLogo{
-  margin: 5vw auto 0px auto;
+  margin: 5vw auto 2vw auto;
   display: block;
   width: 14vw;
 }
@@ -188,21 +189,23 @@ body{
   color: white;
   text-align: center;
   font-size: 5vw;
-  font-weight: 500;
+  font-weight: 600;
   padding: 18px 0px 0px 0px;
+  line-height: 1.1;
 }
 
 #footerBar{
   height: 500px;
   width: 1425px;
   background-color: #222222;
+  margin-top: 170px;
 }
 
 #footerInfo{
   margin: 10px 220px;
 }
 
-#hr1{
+.hr1{
   display: block;
   height: 1px;
   border: 0;
@@ -220,7 +223,7 @@ body{
 }
 
 #S-L{
-  color: #5A5A5A;
+  color: #7c7c7c;
   list-style-type: none;
 }
 
@@ -229,14 +232,14 @@ body{
 
 .S-L-li{
   margin: 15px 0px;
-  font-size: 12px;
+  font-size: 11px;
   font-family: helvetica;
 }
 
 #A-S{
-  color: #5A5A5A;
+  color: #7c7c7c;
   list-style-type: none;
-  margin: -320px 0px 0px 200px;
+  margin: -311px 0px 0px 200px;
 }
 
 .h-li:hover{
@@ -255,8 +258,9 @@ body{
 }
 
 .S-L-li:hover{
-  color: #A7A7A7;
+  text-decoration: underline;
   cursor: pointer;
+  color: #CCCCCC
 }
 
 .slliH{
@@ -269,4 +273,47 @@ body{
 	bottom: 0%;
   width: 100vw;
   height: 15vw;
+}
+
+#F-E{
+  color: #7c7c7c;
+  list-style-type: none;
+  margin: -311px 0px 0px 400px;
+}
+
+#F-B{
+  color: #7c7c7c;
+  list-style-type: none;
+  margin: 40px 0px 0px 400px;
+}
+
+#ACC{
+  color: #7c7c7c;
+  list-style-type: none;
+  margin: -182px 0px 0px 600px;
+}
+
+#A-V{
+  color: #7c7c7c;
+  list-style-type: none;
+  margin: 40px 0px 0px 600px;
+}
+
+#A-A{
+  color: #7c7c7c;
+  list-style-type: none;
+  margin: -312px 0px 0px 800px;
+}
+
+.hr2{
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #444444;
+  margin: 180px 0px 0px 0px;
+  padding: 0;
+}
+
+#myApple{
+
 }
