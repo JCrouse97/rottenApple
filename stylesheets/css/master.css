@@ -56,16 +56,22 @@ body{
   font-weight: 600;
 }
 
+#bignewsimg{
+  margin: 11vw auto 0.7vw auto;
+  display: block;
+  width: 28vw;
+}
+
 #bigNewsPara{
   font-family: helvetica;
-  font-size: 1.6em;
-  font-weight: 600;
+  font-size: 1.7em;
+  font-weight: 500;
   color: #D9B69E;
   text-align: center;
-  line-height: 1.2;
+  line-height: 1.15;
 
 
-  margin: 2.1vw 20vw 1.8vw 20vw;
+  margin: 1.8vw 20vw 1.5vw 20vw;
 
 }
 
@@ -83,9 +89,9 @@ body{
 .wtk-li{
   vertical-align: middle;
   display: inline;
-  font-size: 1.4em;
+  font-size: 1.5em;
   font-family: helvetica;
-  font-weight: 600;
+  font-weight: 500;
   margin: 0px 0.2vw;
 
 
